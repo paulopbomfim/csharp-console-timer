@@ -1,0 +1,15 @@
+D:\Projects\Dotnet\Aulas\Counter\bin\Debug\net6.0\Counter.exe
+D:\Projects\Dotnet\Aulas\Counter\bin\Debug\net6.0\Counter.deps.json
+D:\Projects\Dotnet\Aulas\Counter\bin\Debug\net6.0\Counter.runtimeconfig.json
+D:\Projects\Dotnet\Aulas\Counter\bin\Debug\net6.0\Counter.dll
+D:\Projects\Dotnet\Aulas\Counter\bin\Debug\net6.0\Counter.pdb
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.csproj.AssemblyReference.cache
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.AssemblyInfo.cs
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.dll
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\refint\Counter.dll
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.pdb
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\Counter.genruntimeconfig.cache
+D:\Projects\Dotnet\Aulas\Counter\obj\Debug\net6.0\ref\Counter.dll
