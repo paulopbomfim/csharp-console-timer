@@ -27,13 +27,13 @@ public class Timer
         this.hour -= 1;
     }
     public void MinuteCounter() {
+        this.minute -= 1;
         if(minute < 0)
         {
             this.minute = 59;
             this.HourCounter();
         }
 
-        this.minute -= 1;
 
     }
     public void SecondCounter() {
