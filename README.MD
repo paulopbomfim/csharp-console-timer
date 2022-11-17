@@ -1,4 +1,4 @@
-# Projeto de Console - Contador
+# Projeto de Console - Timer
 ### Projeto criado para testar algumas funcionalidades básicas do C#.
 ---
 

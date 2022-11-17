@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecN5TUmxPdo9xK1G2LBZL0QSV0cTLYSkHmNVxn2XiNC5wwtkiDuvFNWjYdC7zVmxdCVfG9drGPHm0OXMFxQYPw==",
+  "dgSpecHash": "10q/lYOkg7zqRZc+WD6Odao3bdAipN3pa3QDdH97/Bf+QU5XoG4RTgJxhFDzabSK3quDyl00LbujvPXZy1Mmgg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Dotnet\\Aulas\\Counter\\Counter.csproj",
+  "projectFilePath": "D:\\Projects\\Dotnet\\Aulas\\Timer\\Timer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

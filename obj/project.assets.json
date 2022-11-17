@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Dotnet\\Aulas\\Counter\\Counter.csproj",
-      "projectName": "Counter",
-      "projectPath": "D:\\Projects\\Dotnet\\Aulas\\Counter\\Counter.csproj",
+      "projectUniqueName": "D:\\Projects\\Dotnet\\Aulas\\Timer\\Timer.csproj",
+      "projectName": "Timer",
+      "projectPath": "D:\\Projects\\Dotnet\\Aulas\\Timer\\Timer.csproj",
       "packagesPath": "C:\\Users\\phpb2\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Dotnet\\Aulas\\Counter\\obj\\",
+      "outputPath": "D:\\Projects\\Dotnet\\Aulas\\Timer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phpb2\\AppData\\Roaming\\NuGet\\NuGet.Config"

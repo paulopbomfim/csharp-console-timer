@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace Counter
+namespace Timer
 {
     class Program
     {
         static void Main()
         {
+            Console.WriteLine("Bem vindo ao Timer!");
             Console.WriteLine("Digite o tempo do cronometro no formato 00:00:00");
             string? ConsoleEntry = Console.ReadLine();
 
@@ -14,11 +15,11 @@ namespace Counter
                 throw new Exception("Houve algum erro");
             }
 
-            var instance = new Counter(ConsoleEntry);
+            var instance = new Timer(ConsoleEntry);
 
             instance.SecondCounter();
 
-            Console.WriteLine("Contador finalizado");
+            Console.WriteLine("Timer finalizado");
         }
     }
 }

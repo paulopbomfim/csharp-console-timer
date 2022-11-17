@@ -1,15 +1,15 @@
 using System;
 using System.Threading;
 
-namespace Counter;
+namespace Timer;
 
-public class Counter
+public class Timer
 {
     public int hour { get; set; }
     public int minute { get; set; }
     public int second { get; set; }
 
-    public Counter(string time)
+    public Timer(string time)
     {
         var TimeArray = time.Split(':');
         
